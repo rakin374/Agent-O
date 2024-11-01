@@ -1,12 +1,15 @@
-datasets
-transformers
-torch
-torchvision
+datasets == 3.0.2
+transformers == 4.46.0
+torch == 2.5.0
+torchvision == 0.20.0
 accelerate == 0.26.0
 pandas
-datasets
-tables
-scikit-learn
-h5py
-opencv-python
-matplotlib
+tables == 3.10.1
+scikit-learn == 1.5.2
+h5py == 3.12.1
+tensorflow==2.16.1
+ipywidgets == 8.1.5
+opencv-python == 4.10.0.84
+tf-keras == 2.16.0
+evaluate == 0.4.3
+seaborn
