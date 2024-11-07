@@ -5,7 +5,7 @@ This repo contains code, experiments, writings, etc for the final project of [Fa
 
 
 ## Subdirectory Details 
-- / data - contains data, 
+- / data - contains data 
 - / notebooks - contains notes that can be code based(jupyter) but can also non code base nbs (md, pdf) 
 
 
